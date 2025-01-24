@@ -14,6 +14,12 @@ Here are some of the technologies and tools I have experience with:
 - **Version Control**: Git, GitHub
 - **Others**: Relational Databases, Graphic Design, Finance
 
+## Notable Projects
+
+Here are some of the projects I'm currently working on:
+
+- **[Data Science Portfolio](https://github.com/silvanamejia1/MEJIA-Python-Portfolio)** 
+
 ## Let's Connect
 
 You can reach me at:  
