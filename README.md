@@ -26,4 +26,4 @@ You can reach me at:
 **Email**: smejia2@nd.edu  
 **LinkedIn**: [Silvana Mejia on LinkedIn](https://www.linkedin.com/in/silvana-mejia-/)
 
-Thank you for visiting my profile! 😊
+Thank you for visiting my profile! 
