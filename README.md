@@ -18,7 +18,7 @@ Here are some of the technologies and tools I have experience with:
 
 Here are some of the projects I'm currently working on:
 
-- **[Data Science Portfolio](https://github.com/silvanamejia1/MEJIA-Python-Portfolio)** 
+- **[Python Portfolio](https://github.com/silvanamejia1/MEJIA-Python-Portfolio)** 
 
 ## Let's Connect
 
