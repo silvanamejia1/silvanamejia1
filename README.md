@@ -27,8 +27,6 @@ I aim to:
 - Create an **organized and professional portfolio** that showcases my work and achievements.
 - Present this portfolio as a reflection of my skills, growth, and experiences as I pursue new **professional opportunities** in fields such as technology, finance, and consulting.
 
-Here are some of the projects I'm currently working on:
-
 ## Let's Connect
 
 You can reach me at:  
