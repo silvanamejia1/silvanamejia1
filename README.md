@@ -18,7 +18,12 @@ Here are some of the technologies and tools I have experience with:
 
 Here are some of the projects I'm currently working on:
 
-- **[Python Portfolio](https://github.com/silvanamejia1/MEJIA-Python-Portfolio)** 
+- **[EasyInvest App](https://github.com/silvanamejia1/MEJIA-Python-Portfolio/tree/main/Computing_2/StreamlitAppFinal)**  
+  An interactive Streamlit app that helps beginner investors create a personalized financial plan. Users can input their age, income, dependents, and risk tolerance to receive tailored recommendations on how to allocate their income and build an investment strategy across categories like Variable Income, Fixed Income, and Alternatives.  
+  This project combines my passion for **finance** and **technology**, showcasing my ability to design intuitive user experiences, build interactive applications, and communicate complex financial concepts in a simple and accessible way.
+
+- **[Python Portfolio](https://github.com/silvanamejia1/MEJIA-Python-Portfolio)**
+In addition to EasyInvest, here are other Python projects I have been developing as part of my **Elements of Computing II** class, which show my growing skills in areas like natural language processing, data cleaning, and interactive applications:
 
 ## Goals
 
